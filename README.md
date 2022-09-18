@@ -1,2 +1,2 @@
-# chat-manager
-🎯 is planning! A Chat Manager with WS
+# socket-manager
+🎯 is planning! A Socket Manager with WS
