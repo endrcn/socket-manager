@@ -15,7 +15,7 @@
     "socket"
   ],
   "author": "Ender CAN",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/endrcn/socket-manager/issues"
   },
